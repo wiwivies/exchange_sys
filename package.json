@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jspdf": "^3.0.3",
+    "jspdf-autotable": "^5.0.2",
+    "react-bootstrap-icons": "^1.11.6"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.8"
+  }
+}
