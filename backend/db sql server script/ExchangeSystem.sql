@@ -644,4 +644,4 @@ GO
 
 SELECT TOP 10 * FROM v_OperationsProfit;
 
--- КІНЕЦЬ скрипта
+-- КІНЕЦЬ скрипта . 
